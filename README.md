@@ -6,5 +6,6 @@ My personal website: <a href="https://kyshi.github.io/" target="_balnk">kyshi.gi
 
 ## My Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kyshi&show_icons=true&&line_height=33)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyshi&show_icons=true)
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=kyshi&show_icons=true&line_height=22" height="100%">
+</p>
